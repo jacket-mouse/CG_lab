@@ -64,5 +64,6 @@
         "ratio": "cpp",
         "fstream": "cpp"
     },
-    "makefile.configureOnOpen": true
+    "makefile.configureOnOpen": true,
+    "cmake.sourceDirectory": "D:/Project/CG_lab/lab2/include/glm"
 }

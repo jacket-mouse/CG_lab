@@ -1,0 +1,2 @@
+D:/Project/CG_lab/lab2/build/CMakeFiles/edit_cache.dir
+D:/Project/CG_lab/lab2/build/CMakeFiles/rebuild_cache.dir

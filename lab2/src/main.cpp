@@ -352,8 +352,8 @@ int main()
 
     unsigned int cubeVAO = createCubeVAO();
 
-    floorTexture = loadTexture("D:\\Project\\CG\\src\\resources\\textures\\Tile2.jpg", true, GL_LINEAR_MIPMAP_LINEAR, GL_LINEAR);
-    wallTexture = loadTexture("D:\\Project\\CG\\src\\resources\\textures\\Tiles132A.jpg", true, GL_LINEAR_MIPMAP_LINEAR, GL_LINEAR);
+    floorTexture = loadTexture("D:\\Project\\CG_lab\\lab2\\src\\resources\\textures\\Tile2.jpg", true, GL_LINEAR_MIPMAP_LINEAR, GL_LINEAR);
+    wallTexture = loadTexture("D:\\Project\\CG_lab\\lab2\\src\\resources\\textures\\Tiles132A.jpg", true, GL_LINEAR_MIPMAP_LINEAR, GL_LINEAR);
     if (!floorTexture || !wallTexture)
     {
         std::cout << "Failed to load textures!" << std::endl;
